@@ -34,3 +34,14 @@ Pretavoir is the home of lxury sunglasses and glasses. The've brands products wh
 2. BURGA
 
 BURGA sells fashionable accessories like phone cases, leather goods, and drinkware. One of the most remarkable features of their online store is a uniquely personalized User Experience (UX): if you visit the website on your smartphone, it will pick up on the model and automatically filter and display the cases specifically tailored to you.
+
+3. The INT
+
+This App work with the inventory of the website to make it export or import from the excal file. Your file should be save in the .CVC or the .xl format. Moreover, This app also provide the suv, meta tag, product size, color, short feedback as well as the report of the app. This app comes in paid and free version as well.In free version you only can upload the product to your store or the edit the product list depend on the your site. 
+
+4. Olwo
+
+This work perfect with mobile and desktop notification. If you're looking an app which send your product update to your new and old clients, then this application is for you. You can send notifcatiopn to those clients/ buyers which left the items in cart, if your product back to stoke again or put special discount on the product. Olow will send the notifications to the buyers about any update which you'll made by using it. 
+
+5. Referral Candy
+If you want to start giving bounce to your old or new clients by succefull referring their friends then  
