@@ -44,4 +44,5 @@ This App work with the inventory of the website to make it export or import from
 This work perfect with mobile and desktop notification. If you're looking an app which send your product update to your new and old clients, then this application is for you. You can send notifcatiopn to those clients/ buyers which left the items in cart, if your product back to stoke again or put special discount on the product. Olow will send the notifications to the buyers about any update which you'll made by using it. 
 
 5. Referral Candy
-If you want to start giving bounce to your old or new clients by succefull referring their friends then  
+
+If you want to start giving bounce to your old or new clients by successful referring their friends, then this app work perfect for you. You don't need any third party websites or domains to link with your website. All, this app has the ablities to create a page for you, while you're using the referreal candy this will help you to grow your users on sites and selling as well.
