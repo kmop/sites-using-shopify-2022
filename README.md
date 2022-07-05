@@ -29,7 +29,7 @@ It's paid app for the e-commerce stores. This app after integration allow the st
 
 1. PRETAVOIR - Opticians
 
-Pretavoir is the home of lxury sunglasses and glasses. The've brands products which are including Ray-ban, Gucci, [Balenciaga sunglasses], Tom ford and many other top eyewear products with the super price match market. This website running from 2009 and they have more than 19K plus feedback on the trustpliot and millions of monthly visitors on the website.
+Pretavoir is the home of lxury sunglasses and glasses. The've brands products which are including Ray-ban, Gucci, [Balenciaga sunglasses](https://pretavoir.co.uk/collections/balenciaga-sunglasses), Tom ford and many other top eyewear products with the super price match market. This website running from 2009 and they have more than 19K plus feedback on the trustpliot and millions of monthly visitors on the website.
 
 2. BURGA
 
